@@ -72,38 +72,6 @@ A parody AI support system that responds with increasingly complex solutions.
 
 ---
 
-# 📊 GitHub Analytics
-
-## 🏆 Achievements
-
-<img src="./metrics.plugin.achievements.svg" width="100%"/>
-
-## 📆 Contribution Calendar
-
-<img src="./metrics.plugin.calendar.full.svg" width="100%"/>
-
-## 📰 Recent Activity
-
-<img src="./metrics.plugin.activity.svg" width="100%"/>
-
-## 🈷️ Languages Activity
-
-<img src="./metrics.plugin.languages.indepth.svg" width="100%"/>
-
-## 🧩 LeetCode Statistics
-
-<img src="./metrics.plugin.leetcode.svg" width="100%"/>
-
-## 🗂️ GitHub Projects
-
-<img src="./metrics.plugin.projects.svg" width="100%"/>
-
-## 📓 Featured Repositories
-
-<img src="./metrics.plugin.repositories.svg" width="100%"/>
-
----
-
 # 🛠️ Technologies
 
 <p align="center">
