@@ -1,4 +1,4 @@
-# Hi, I'm Nayana Shaji 👋
+# Hi! I'm Nayana 🤓
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full-Stack+Developer;Hackathon+Enthusiast;Building+AI+Powered+Solutions;Always+Learning+Something+New" />
@@ -6,29 +6,35 @@
 
 <p align="center">
   <a href="https://github.com/nayanashaji">
-    <img src="https://komarev.com/ghpvc/?username=nayanashaji&style=for-the-badge" />  </a>
+    <img src="https://komarev.com/ghpvc/?username=nayanashaji&style=for-the-badge"/>  </a>
   <a href="https://leetcode.com/u/nayanashaji/">
-    <img src="https://img.shields.io/badge/LeetCode-nayanashaji-orange?style=for-the-badge&logo=leetcode" />
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
+  <a href="https://dev.to/nayana_shaji_m">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nayana-shaji-394124320/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/>
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me:
 
-🎓 B.Tech Computer Science Student
+- B.Tech Computer Science Student
 
-💻 Interested in Full-Stack Development, AI, and Problem Solving
+- Interested in Full-Stack Development, AI, and Problem Solving
 
-🏆 Active participant in Hackathons and Technical Competitions
+- Active participant in Hackathons and Technical Competitions
 
-🌱 Exploring Machine Learning, Cloud Technologies, and System Design
+- Exploring Machine Learning, Cloud Technologies, and System Design
 
-🤝 Open to collaborating on innovative projects
+- Open to collaborating on innovative projects
 
 ---
 
-## 📊 GitHub Metrics
+## GitHub Metrics:
 
 <p align="center">
   <img src="./github-metrics.svg" alt="GitHub Metrics" />
@@ -36,9 +42,9 @@
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects:
 
-### 🚨 Stampede Detector
+### Stampede Detector
 
 Real-time crowd density monitoring and prediction system.
 
@@ -46,7 +52,18 @@ Real-time crowd density monitoring and prediction system.
 * Crowd risk prediction
 * AI-powered safety monitoring
 
-### ⚖️ ATHENIS
+### Voice-Controlled Local AI Agent
+
+A privacy-focused AI assistant that processes spoken commands and executes tasks locally using speech recognition and large language models.
+
+* Supports real-time microphone input and audio file uploads
+* Uses Whisper for accurate speech-to-text transcription
+* Hybrid intent detection using rule-based logic and Ollama-hosted LLMs
+* Generates code, creates files, and summarizes text automatically
+* Secure local execution with restricted file operations
+* Interactive Streamlit interface with real-time pipeline visualization
+
+### ATHENIS
 
 AI-powered legal document simplifier built for HackOdisha 5.0.
 
@@ -54,7 +71,7 @@ AI-powered legal document simplifier built for HackOdisha 5.0.
 * Uses AI for document analysis
 * Top 10 Finish at HackOdisha 5.0
 
-### ♿ Braillink
+### Braillink
 
 Assistive Braille phone cover designed to improve accessibility.
 
@@ -62,7 +79,7 @@ Assistive Braille phone cover designed to improve accessibility.
 * Hardware-software integration
 * Accessibility-focused innovation
 
-### 🤖 Recursive Help Desk™
+### WHYBOT - Recursive Help Desk
 
 A parody AI support system that responds with increasingly complex solutions.
 
@@ -72,15 +89,15 @@ A parody AI support system that responds with increasingly complex solutions.
 
 ---
 
-# 🛠️ Technologies
+# Technologies:
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,mysql,c,git,github,vscode,html,css" />
+<img src="https://skillicons.dev/icons?i=java,python,c,flask,nodejs,javascript,typescript,react,vite,tailwindcss,figma,mysql,linux,git,github,vercel,arduino,vscode,html,css" />
 </p>
 
 ---
 
-# 📈 GitHub Stats
+# GitHub Stats:
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nayanashaji&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -93,11 +110,14 @@ A parody AI support system that responds with increasingly complex solutions.
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me:
 
 <p align="center">
-  <a href="https://github.com/nayanashaji">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <a href="https://www.linkedin.com/in/nayana-shaji-394124320/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:nayanashajim@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
 </p>
 
