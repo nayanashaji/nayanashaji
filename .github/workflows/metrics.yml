@@ -23,13 +23,7 @@ jobs:
 
                 plugin_activity: yes
                 plugin_activity_limit: 5
+                plugin_activity_timestamps: yes
 
-                plugin_achievements: yes
-                plugin_achievements_display: compact
-                plugin_achievements_threshold: C
                 plugin_repositories: yes
-                plugin_repositories_featured: 
-                    nayanashaji/Voice-Agent,
-                    nayanashaji/Brailllink_App,
-                    nayanashaji/NOTHINGSNEW,
-                    nayanashaji/whybot
+                plugin_repositories_featured: gabsgj/Stampede-Predictor
