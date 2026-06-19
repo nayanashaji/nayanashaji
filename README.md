@@ -100,12 +100,12 @@ A parody AI support system that responds with increasingly complex solutions.
 # GitHub Stats:
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nayanashaji&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=nayanashaji&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nayanashaji&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="170em" src="https://streak-stats.demolab.com?user=nayanashaji&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanashaji&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanashaji&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 ---
