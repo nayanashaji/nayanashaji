@@ -19,6 +19,5 @@ jobs:
                 
                 base: header, metadata
                 
-                plugin_calendar: yes
                 plugin_leetcode: yes
                 plugin_leetcode_user: nayanashaji
